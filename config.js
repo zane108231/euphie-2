@@ -25,7 +25,7 @@ module.exports = {
         },
     ],
 
-    prefix: "e!",
+    prefix: "e2!",
 
     defaultSearchPlatform: "ytsearch",
     restVersion: "v4",
